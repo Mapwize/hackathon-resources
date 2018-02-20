@@ -10,7 +10,7 @@ Mathieu Gerard, co-founder and CTO of Mapwize, is on site and ready to answer al
 
 The map of the event is available on Mapwize already and can be used freely during the hackathon. If you would like to add anything on that map like beacons or data in the booths or stuff like that, please contact Mathieu.
 
-You can view the map at [http://mwz.io/v/bosch_connected_world_2018](http://mwz.io/v/bosch_connected_world_2018), in the event app, or in the native Mapwize apps on iOS and Android.
+You can view the map at [http://mwz.io/v/bosch_connected_world](http://mwz.io/v/bosch_connected_world), in the event app, or in the native Mapwize apps on iOS and Android.
 
 ## Meraki deployment
 
